@@ -1,0 +1,230 @@
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\ApplicationInsights.config
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\roslyn\csc.exe
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\roslyn\System.Collections.Immutable.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\roslyn\vbc.exe
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\roslyn\VBCSCompiler.exe
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\roslyn\VBCSCompiler.exe.config
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\ToDoList.dll.config
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\ToDoList.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\ToDoList.pdb
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Antlr3.Runtime.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\EntityFramework.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\EntityFramework.SqlServer.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.AI.Web.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.AI.WindowsServer.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.ApplicationInsights.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.Security.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.Security.Google.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Web.Infrastructure.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Newtonsoft.Json.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Owin.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.Helpers.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.Mvc.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.Optimization.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.Razor.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.WebPages.Deployment.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.WebPages.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.WebPages.Razor.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\WebGrease.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.AI.Web.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.AI.WindowsServer.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.ApplicationInsights.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.Helpers.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.Mvc.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.Optimization.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.Razor.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.WebPages.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.WebPages.Deployment.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.WebPages.Razor.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Antlr3.Runtime.pdb
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Newtonsoft.Json.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\EntityFramework.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\EntityFramework.SqlServer.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.Security.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.Security.Google.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.pdb
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\ToDoList.Buissnes.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\ToDoList.Buissnes.pdb
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\ToDoList.DomainModels.dll
+c:\users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList\bin\ToDoList.DomainModels.pdb
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.Migrations.InitialMigration.resources
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.Cache
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.Migrations.AddedUserIdFieldToListModel.resources
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.Http.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\System.Net.Http.Formatting.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.Http.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\System.Net.Http.Formatting.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.Migrations.UpdatedTaskModelFields.resources
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.Migrations.UpdatedToDoListsFields.resources
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.Migrations.UpdatedToDoListsFields2.resources
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.Migrations.UpdatedToDoListsFields21.resources
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\obj\Debug\ToDoList.Migrations.UpdatedToDoTaskModelFields.resources
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Practices.Unity.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Practices.Unity.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\ToDoList.DataConnection.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\ToDoList.DataConnection.pdb
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.Http.WebHost.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\Unity.WebApi.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\System.Web.Http.WebHost.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\WebActivatorEx.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\ApplicationInsights.config
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\roslyn\csc.exe
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\roslyn\System.Collections.Immutable.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\roslyn\System.Reflection.Metadata.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\roslyn\vbc.exe
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\roslyn\VBCSCompiler.exe
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\roslyn\VBCSCompiler.exe.config
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\ToDoList.dll.config
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\ToDoList.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\ToDoList.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Antlr3.Runtime.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\EntityFramework.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\EntityFramework.SqlServer.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.AI.Agent.Intercept.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.AI.DependencyCollector.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.AI.Web.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.AI.WindowsServer.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.ApplicationInsights.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.AspNet.Identity.Core.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.Security.Cookies.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.Security.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.Security.Facebook.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.Security.Google.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.Security.OAuth.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.Security.Twitter.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Practices.ServiceLocation.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Practices.Unity.Configuration.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Practices.Unity.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Practices.Unity.Mvc.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Web.Infrastructure.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Newtonsoft.Json.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Owin.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Net.Http.Formatting.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.Helpers.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.Http.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.Http.WebHost.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.Mvc.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.Optimization.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.Razor.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.WebPages.Deployment.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.WebPages.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.WebPages.Razor.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\ToDoList.Buissnes.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\ToDoList.DomainModels.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Unity.WebApi.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\WebActivatorEx.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\WebGrease.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\ToDoList.DataConnection.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\ToDoList.DomainModels.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\ToDoList.Buissnes.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.AI.DependencyCollector.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.AI.Web.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.AI.WindowsServer.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.ApplicationInsights.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Practices.ServiceLocation.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Practices.Unity.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Practices.Unity.Configuration.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Practices.Unity.Mvc.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Net.Http.Formatting.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.Http.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.Http.WebHost.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.Helpers.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.Mvc.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.Optimization.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.Razor.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.WebPages.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.WebPages.Deployment.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\System.Web.WebPages.Razor.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Antlr3.Runtime.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Newtonsoft.Json.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\EntityFramework.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\EntityFramework.SqlServer.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.AspNet.Identity.Core.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.Security.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.Security.Facebook.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.Security.Cookies.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.Security.OAuth.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.Security.Google.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.Security.Twitter.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\bin\ToDoList.DataConnection.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\obj\Debug\ToDoList.csprojResolveAssemblyReference.cache
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\obj\Debug\ToDoList.Migrations.InitialMigration.resources
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\obj\Debug\ToDoList.Migrations.AddedUserIdFieldToListModel.resources
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\obj\Debug\ToDoList.Migrations.UpdatedTaskModelFields.resources
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\obj\Debug\ToDoList.Migrations.UpdatedToDoListsFields.resources
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\obj\Debug\ToDoList.Migrations.UpdatedToDoListsFields2.resources
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\obj\Debug\ToDoList.Migrations.UpdatedToDoListsFields21.resources
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\obj\Debug\ToDoList.Migrations.UpdatedToDoTaskModelFields.resources
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\obj\Debug\ToDoList.csproj.GenerateResource.Cache
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\obj\Debug\ToDoList.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList\obj\Debug\ToDoList.pdb

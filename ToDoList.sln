@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList", "ToDoList\ToDoList.csproj", "{C8D20334-C627-42AF-A291-FDBF533561F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Buissnes", "ToDoList.Buissnes\ToDoList.Buissnes.csproj", "{00AE6808-14C1-4063-B992-4D74DA200179}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.DomainModels", "DomainModels\ToDoList.DomainModels.csproj", "{82535F3F-84EC-4594-98B9-18D6DB0E7982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.DataConnection", "ToDoList.DataConnection\ToDoList.DataConnection.csproj", "{11846CC1-8AD1-4268-9E4E-CF7717410982}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.Console", "ToDoList.Console\ToDoList.Console.csproj", "{A0BC18A9-8817-4A68-80B5-79A74DDEDDAF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoList.WebApi", "ToDoList.WebApi\ToDoList.WebApi.csproj", "{F653E533-7968-4CEF-8426-76BA7BCE1EE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8D20334-C627-42AF-A291-FDBF533561F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D20334-C627-42AF-A291-FDBF533561F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D20334-C627-42AF-A291-FDBF533561F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D20334-C627-42AF-A291-FDBF533561F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AE6808-14C1-4063-B992-4D74DA200179}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AE6808-14C1-4063-B992-4D74DA200179}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AE6808-14C1-4063-B992-4D74DA200179}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AE6808-14C1-4063-B992-4D74DA200179}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82535F3F-84EC-4594-98B9-18D6DB0E7982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82535F3F-84EC-4594-98B9-18D6DB0E7982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82535F3F-84EC-4594-98B9-18D6DB0E7982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82535F3F-84EC-4594-98B9-18D6DB0E7982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11846CC1-8AD1-4268-9E4E-CF7717410982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11846CC1-8AD1-4268-9E4E-CF7717410982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11846CC1-8AD1-4268-9E4E-CF7717410982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11846CC1-8AD1-4268-9E4E-CF7717410982}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0BC18A9-8817-4A68-80B5-79A74DDEDDAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0BC18A9-8817-4A68-80B5-79A74DDEDDAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0BC18A9-8817-4A68-80B5-79A74DDEDDAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0BC18A9-8817-4A68-80B5-79A74DDEDDAF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F653E533-7968-4CEF-8426-76BA7BCE1EE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F653E533-7968-4CEF-8426-76BA7BCE1EE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F653E533-7968-4CEF-8426-76BA7BCE1EE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F653E533-7968-4CEF-8426-76BA7BCE1EE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 7
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://tfs.codedprojects.com:8080/tfs/codedprojects-877c9f
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = DomainModels\\ToDoList.DomainModels.csproj
+		SccProjectName1 = DomainModels
+		SccLocalPath1 = DomainModels
+		SccProjectUniqueName2 = ToDoList.Buissnes\\ToDoList.Buissnes.csproj
+		SccProjectName2 = ToDoList.Buissnes
+		SccLocalPath2 = ToDoList.Buissnes
+		SccProjectUniqueName3 = ToDoList.Console\\ToDoList.Console.csproj
+		SccProjectName3 = ToDoList.Console
+		SccLocalPath3 = ToDoList.Console
+		SccProjectUniqueName4 = ToDoList.DataConnection\\ToDoList.DataConnection.csproj
+		SccProjectName4 = ToDoList.DataConnection
+		SccLocalPath4 = ToDoList.DataConnection
+		SccProjectUniqueName5 = ToDoList\\ToDoList.csproj
+		SccProjectName5 = ToDoList
+		SccLocalPath5 = ToDoList
+		SccProjectUniqueName6 = ToDoList.WebApi\\ToDoList.WebApi.csproj
+		SccProjectName6 = ToDoList.WebApi
+		SccLocalPath6 = ToDoList.WebApi
+	EndGlobalSection
+EndGlobal

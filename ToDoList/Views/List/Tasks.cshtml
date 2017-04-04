@@ -1,0 +1,41 @@
+﻿@model ToDoList.ViewModels.TasksViewModel
+@{
+    ViewBag.Title = "Tasks";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Tasks</h2>
+
+
+@if (Model.Tasks != null)
+{
+    <table class="TasksTable">
+        <thead>
+            <tr>
+                <th>TaskId</th>
+                <th>TaskName</th>
+                <th>TaskDesc</th>
+                <th>Delete Task</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var task in Model.Tasks)
+            {
+                Model.TaskId = task.TaskId;
+                <tr>
+                    <td>@task.TaskId</td>
+                    <td>@Html.ActionLink(task.TaskName, "TaskDetails", Model, Model)</td>
+                    <td>@task.TaskDesc</td>
+                    <td>@Html.ActionLink("Delete", "DeleteTask", Model, Model)</td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+}
+else
+{
+    <label>This list do not have any tasks yet !</label>
+}
+
+<div>@Html.ActionLink("Add New Task", "TaskForm", new { ListId = Model.ListId, SessionId = Model.SessionId }, new { ListId = Model.ListId, SessionId = Model.SessionId })</div>

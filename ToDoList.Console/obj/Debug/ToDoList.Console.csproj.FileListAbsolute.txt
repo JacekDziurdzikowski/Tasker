@@ -1,0 +1,71 @@
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\ApplicationInsights.config
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\roslyn\csc.exe
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\roslyn\vbc.exe
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\ToDoList.Console.exe.config
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\ToDoList.Console.exe
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\ToDoList.Console.pdb
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\ToDoList.Buissnes.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\ToDoList.DomainModels.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\ToDoList.DataConnection.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\EntityFramework.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\ToDoList.DomainModels.pdb
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\ToDoList.Buissnes.pdb
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.Unity.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\ToDoList.DataConnection.pdb
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\bin\Debug\EntityFramework.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\obj\Debug\ToDoList.Console.csprojResolveAssemblyReference.cache
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\obj\Debug\ToDoList.Console.exe
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Console\obj\Debug\ToDoList.Console.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\ApplicationInsights.config
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\roslyn\csc.exe
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\roslyn\vbc.exe
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\roslyn\VBCSCompiler.exe
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\ToDoList.Console.exe.config
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\ToDoList.Console.exe
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\ToDoList.Console.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.Unity.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\ToDoList.Buissnes.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\ToDoList.DomainModels.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\ToDoList.DataConnection.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\EntityFramework.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\ToDoList.DomainModels.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\ToDoList.Buissnes.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.Unity.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\bin\Debug\ToDoList.DataConnection.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\obj\Debug\ToDoList.Console.csprojResolveAssemblyReference.cache
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\obj\Debug\ToDoList.Console.exe
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Console\obj\Debug\ToDoList.Console.pdb

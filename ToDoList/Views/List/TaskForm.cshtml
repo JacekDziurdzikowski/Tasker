@@ -1,0 +1,40 @@
+﻿@model ToDoList.ViewModels.TaskFormViewModel
+@{
+    ViewBag.Title = "TaskForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>TaskForm</h2>
+
+@using (Html.BeginForm("SaveTask", "List"))
+{
+    @Html.ValidationSummary()
+    <div class="form-group">
+        <label>Wpisz nazwe Taska</label>
+        @Html.TextBoxFor(m => m.ToDoTask.TaskName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.ToDoTask.TaskName)
+    </div>
+    <div class="form-group">
+        <label>Wpisz opis Taska</label>
+        @Html.TextBoxFor(m => m.ToDoTask.TaskDesc, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.ToDoTask.TaskDesc)
+    </div>
+
+
+    <button type="submit" class="btn btn-primary ">Save</button>
+
+
+    <div class="form-group">
+        @Html.HiddenFor(m => m.SessionId)
+    </div>
+    <div class="form-group">
+        @Html.HiddenFor(m => m.ToDoTask.ParentListId)
+    </div>
+    <div class="form-group">
+        @Html.HiddenFor(m => m.ToDoTask.TaskId)
+    </div>
+
+
+
+}
+@Html.AntiForgeryToken()

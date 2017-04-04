@@ -1,0 +1,65 @@
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\ApplicationInsights.config
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\roslyn\csc.exe
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\roslyn\vbc.exe
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\roslyn\VBCSCompiler.exe
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\ToDoList.DomainModels.dll.config
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\ToDoList.DomainModels.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\ToDoList.DomainModels.pdb
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\Microsoft.AI.Web.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\Microsoft.ApplicationInsights.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\Microsoft.AI.Web.xml
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\Microsoft.ApplicationInsights.xml
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\obj\Debug\ToDoList.DomainModels.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\obj\Debug\ToDoList.DomainModels.pdb
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\DomainModels\obj\Debug\ToDoList.DomainModels.csprojResolveAssemblyReference.cache
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\ApplicationInsights.config
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\roslyn\csc.exe
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\roslyn\System.Collections.Immutable.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\roslyn\System.Reflection.Metadata.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\roslyn\vbc.exe
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\roslyn\VBCSCompiler.exe
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\roslyn\VBCSCompiler.exe.config
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\ToDoList.DomainModels.dll.config
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\ToDoList.DomainModels.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\ToDoList.DomainModels.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\Microsoft.AI.Agent.Intercept.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\Microsoft.AI.DependencyCollector.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\Microsoft.AI.Web.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\Microsoft.AI.WindowsServer.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\Microsoft.ApplicationInsights.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\Microsoft.AI.DependencyCollector.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\Microsoft.AI.Web.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\Microsoft.AI.WindowsServer.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\Microsoft.ApplicationInsights.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\obj\Debug\ToDoList.DomainModels.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\DomainModels\obj\Debug\ToDoList.DomainModels.pdb

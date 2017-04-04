@@ -1,0 +1,43 @@
+﻿@model ToDoList.ViewModels.ListsViewModel
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+
+@if (Model.Lists != null)
+{
+    <table class="ListTable">
+        <thead>
+            <tr>
+                <th>ListId</th>
+                <th>ListName</th>
+                <th>Delete</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var list in Model.Lists)
+            {
+                Model.ListId = list.ListId;
+                <tr>
+                    <td>@list.ListId</td>
+                    <td>@Html.ActionLink(list.ListName, "Tasks", Model, Model)</td>
+                    <td>@Html.ActionLink("Delete", "DeleteList", Model, Model)</td>
+                </tr>
+            }
+
+        </tbody>
+    </table>
+}
+else
+{
+    <label>You don't have any lists yet !</label>
+}
+
+
+@Html.ActionLink("Create New List", "ListForm", Model, Model)
+
+
+

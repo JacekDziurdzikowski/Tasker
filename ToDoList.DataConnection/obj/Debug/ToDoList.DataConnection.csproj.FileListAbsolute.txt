@@ -1,0 +1,98 @@
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\ApplicationInsights.config
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\roslyn\csc.exe
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\roslyn\vbc.exe
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\roslyn\VBCSCompiler.exe
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\ToDoList.DataConnection.dll.config
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\ToDoList.DataConnection.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\ToDoList.DataConnection.pdb
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\EntityFramework.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\EntityFramework.SqlServer.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.Web.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\EntityFramework.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\EntityFramework.SqlServer.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.Web.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\obj\Debug\ToDoList.DataConnection.csprojResolveAssemblyReference.cache
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\obj\Debug\ToDoList.DataConnection.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\obj\Debug\ToDoList.DataConnection.pdb
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\ToDoList.DomainModels.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\ToDoList.DomainModels.pdb
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\obj\Debug\ToDoList.DataConnection.Migrations.FirstMigration.resources
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\obj\Debug\ToDoList.DataConnection.csproj.GenerateResource.Cache
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\Newtonsoft.Json.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\System.Net.Http.Formatting.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\System.Web.Http.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\System.Web.Http.WebHost.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\Newtonsoft.Json.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\System.Net.Http.Formatting.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\System.Web.Http.xml
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.DataConnection\bin\System.Web.Http.WebHost.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\ApplicationInsights.config
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\roslyn\csc.exe
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\roslyn\System.Collections.Immutable.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\roslyn\System.Reflection.Metadata.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\roslyn\vbc.exe
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\roslyn\VBCSCompiler.exe
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\roslyn\VBCSCompiler.exe.config
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\ToDoList.DataConnection.dll.config
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\ToDoList.DataConnection.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\ToDoList.DataConnection.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\EntityFramework.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\EntityFramework.SqlServer.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.Agent.Intercept.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.DependencyCollector.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.Web.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.WindowsServer.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\Microsoft.ApplicationInsights.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\Newtonsoft.Json.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\System.Net.Http.Formatting.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\System.Web.Http.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\System.Web.Http.WebHost.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\ToDoList.DomainModels.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\ToDoList.DomainModels.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\EntityFramework.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\EntityFramework.SqlServer.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.DependencyCollector.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.Web.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\Microsoft.AI.WindowsServer.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\Microsoft.ApplicationInsights.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\Newtonsoft.Json.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\System.Net.Http.Formatting.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\System.Web.Http.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\bin\System.Web.Http.WebHost.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\obj\Debug\ToDoList.DataConnection.csprojResolveAssemblyReference.cache
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\obj\Debug\ToDoList.DataConnection.Migrations.FirstMigration.resources
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\obj\Debug\ToDoList.DataConnection.csproj.GenerateResource.Cache
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\obj\Debug\ToDoList.DataConnection.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.DataConnection\obj\Debug\ToDoList.DataConnection.pdb

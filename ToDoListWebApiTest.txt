@@ -1,0 +1,97 @@
+testowe jsony do mojego WebApi
+
+Login
+POST /login
+{
+    "email" : "kk",
+    "Password" : "kk"
+}
+
+Logout
+POST /logout
+{
+"SessionId": 51
+}
+
+Register a new user
+POST /users
+{
+    "FirstName" : "OJEJU",
+    "LastName" : "AHA",
+    "email" : "email_test",
+    "password_test" : "password_test"  
+}
+
+Create a new todolist
+POST /todolists
+{
+    "SessionId" : 51,
+    "ListName" : "ZupelnieNowaListaZWebApi"  
+}
+
+Get todolist's list
+GET /todolists
+http://localhost:54750//api/todolists?sessionId=51
+
+Get single todolist
+GET /todolists/{id}
+http://localhost:54750//api/todolists/30?sessionId=868
+
+
+Add a task to todolist
+POST /todolists/{todolistid}/tasks
+http://localhost:54750//api/todolists/{todolistid}/tasks
+{
+	"Task" : {
+      "TaskName" : "WebApiTaskName1",
+      "TaskDesc" : "WebApiTaskDesc1",
+      "ParentListId" : 30
+    },
+    "SessionId" :   
+}
+
+
+Update a todolist
+PUT /todolists/{id}
+http://localhost:54750//api/todolists/{id}
+{
+  "List" : {
+    "ListId" : 30,
+    "ListName" : "ZupelnieNowa3teraz4"
+  },
+  "SessionId" : 868 
+}
+
+
+Delete a todolist
+DELETE /todolists/{id}
+http://localhost:54750//api/todolists/{id}
+{
+  "SessionId" : 868 
+}
+
+
+Update a task
+PUT /todolists/{todolistid	}/tasks/{taskid}
+http://localhost:54750//api/todolists/{listid}/tasks/{taskid}
+{
+  "Task" : {
+    "TaskId" : 49,
+    "TaskName" : "WebApiTaskName1popr",
+    "TaskDesc" : "WebApiTaskDesc1popr"
+  },
+  "SessionId" : 868 
+}
+
+
+Delete a task
+DELETE /todolists/{todolistid}/tasks/{taskid}
+http://localhost:54750//api/todolists/{listid}/tasks/{taskid}
+{
+    "SessionId" : 868  
+}
+
+
+
+
+

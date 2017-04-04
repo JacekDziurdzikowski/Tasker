@@ -1,0 +1,75 @@
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\obj\Debug\ToDoList.Buissnes.csprojResolveAssemblyReference.cache
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\ApplicationInsights.config
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\roslyn\csc.exe
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\roslyn\vbc.exe
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\roslyn\VBCSCompiler.exe
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\ToDoList.Buissnes.dll.config
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\ToDoList.Buissnes.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\ToDoList.Buissnes.pdb
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.Web.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\Microsoft.ApplicationInsights.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.Web.xml
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\Microsoft.ApplicationInsights.xml
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\obj\Debug\ToDoList.Buissnes.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\obj\Debug\ToDoList.Buissnes.pdb
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\ToDoList.DomainModels.dll
+c:\Users\jacek.dziurdzikowski\documents\visual studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\ToDoList.DomainModels.pdb
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\ToDoList.DataConnection.dll
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\ToDoList.DataConnection.pdb
+C:\Users\jacek.dziurdzikowski\Documents\Visual Studio 2015\Projects\ToDoList\ToDoList.Buissnes\bin\EntityFramework.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\ApplicationInsights.config
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\roslyn\csc.exe
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\roslyn\System.Collections.Immutable.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\roslyn\System.Reflection.Metadata.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\roslyn\vbc.exe
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\roslyn\VBCSCompiler.exe
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\roslyn\VBCSCompiler.exe.config
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\ToDoList.Buissnes.dll.config
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\ToDoList.Buissnes.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\ToDoList.Buissnes.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.Agent.Intercept.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.DependencyCollector.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.Web.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.WindowsServer.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\Microsoft.ApplicationInsights.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\ToDoList.DataConnection.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\ToDoList.DomainModels.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\ToDoList.DomainModels.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\ToDoList.DataConnection.pdb
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.DependencyCollector.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.Web.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\Microsoft.AI.WindowsServer.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\Microsoft.ApplicationInsights.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\obj\Debug\ToDoList.Buissnes.csprojResolveAssemblyReference.cache
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\obj\Debug\ToDoList.Buissnes.dll
+C:\dev-source\j-dziurdzikowski\cp-tfs\cp\INTERNAL\Skills\ToDoList\jacekd\ToDoList\ToDoList.Buissnes\obj\Debug\ToDoList.Buissnes.pdb

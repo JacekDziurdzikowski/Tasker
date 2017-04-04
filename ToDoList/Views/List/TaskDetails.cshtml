@@ -1,0 +1,18 @@
+﻿@model ToDoList.ViewModels.TaskFormViewModel
+@{
+    ViewBag.Title = "TaskDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>TaskDetails</h2>
+
+<div>
+    <h3>@Model.ToDoTask.TaskName</h3>
+</div>
+
+<div>
+    <p>@Model.ToDoTask.TaskDesc</p>
+</div>
+
+@Html.ActionLink("Edit", "TaskForm", Model, Model)
+

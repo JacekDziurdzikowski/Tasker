@@ -1,0 +1,537 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Document</title>
+    
+    <!-- jQuery  -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <!-- Bootstrap.css  -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Bootstrap.js -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <!-- Knockout.js -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/knockout/3.4.2/knockout-min.js" crossorigin="anonymous"></script>
+    <style>
+        
+    .jumbotron {
+        margin: auto;
+	    margin-top: 40px;
+        width: 500px;
+    }
+        
+    #login-form {
+        margin: 20px;
+        margin-top: 10px;
+    }
+    
+    
+    </style>
+    
+</head>
+<body>
+
+   
+<div class="container">
+    
+<div class="jumbotron" data-bind="visible : !isUserLoggedIn()">    
+<div class="login row" >
+<div class="panel panel-default">
+    <div class="panel-heading">
+       <h3 style="margin-left: 26px">Please sign in...</h3>
+    </div>
+    <div class="panel-body" id="login-form">
+        <div class="login-form-wrapper">
+    
+           <form class="form-horizontal" id="login-form">
+    
+                <div class="form-group">
+                    <label for ="login-email" style="">Username</label> 
+                    <input type="text" class="form-control" id="login-email" name="email" style="" placeholder="email"> 
+                </div>
+                <div class="form-group">
+                    <label for="login-password" style="">Password</label> 
+                    <input type="text" class="form-control" id="login-password" name="password" style="" placeholder="password">
+                </div>     
+    
+            </form>
+            <button class="btn btn-default" data-bind="click : signIn" style="float: right; margin-right: 5px;">Sign In</button><br>
+               
+        </div>
+
+    </div> 
+</div>
+</div> 
+</div> 
+   
+
+    
+        
+<div class="listTable" data-bind="visible : (isUserLoggedIn()&&(!displayTasks()))">    
+    
+    <div class="page-header" style="margin-bottom: 40px; margin-top: 80px">
+        <h2 style="display: inline">Hello User  <span data-bind="text : userEmail"></span></h2>
+        <button class="btn btn-default" data-bind="click : signOut" style="float: right">Sign out</button><br>         
+    </div>
+    
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 style="margin-left: 6px">Enjoy your ToDo Lists !</h4>
+        </div>
+        <div class="panel-body">
+        <table class="table table-stripped table-hover" style="margin-bottom: -4px">
+        <thead>
+           <tr>
+            <th>List Name</th>
+            <th>Open</th>
+            <th>Edit</th>
+            <th>Delete</th>
+           </tr>
+        </thead>
+        <tbody class="" data-bind="foreach : toDoListsList">
+            <tr>
+                <td data-bind="text : listName"></td>
+                <td><button class="btn btn-default" data-bind="click : $root.openList.bind($data)">Open</button></td>
+                <td><button class="btn btn-default" data-bind="click : $root.displayEditList.bind($data)" data-toggle="modal" data-target="#update-task-modal">Edit</button></td>
+                <td><button class="btn btn-default" data-bind="click : $root.deleteList.bind($data)">Delete</button></td>
+            </tr>
+        </tbody>
+    </table>
+        </div>
+        <div class="panel-footer">
+            <button class="btn btn-default" data-cind="click : displayCreateList" data-toggle="modal" data-target="#create-list-modal" style="margin-top: 8px; margin-bottom: -8px">Add new list</button><br><br> 
+        </div>
+    </div>
+    
+</div> 
+
+<div class="taskTable table" data-bind="visible : displayTasks()">    
+  
+    <div class="page-header" style="margin-bottom: 40px; margin-top: 80px">
+        <h2 style="display: inline;">Hello User  <span data-bind="text : userEmail"></span></h2>
+        <button class="btn btn-default" data-bind="click : signOut" style="float: right">Sign out</button><br>         
+    </div>
+    
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <h4 style="margin-left: 6px; display: inline-block">Enjoy your ToDo Tasks from <span data-bind="text: activeListName"></span> List!</h4>
+            <button class="btn btn-default" data-bind="click : goToLists" style="float: right">Back to Lists</button><br>
+        </div>
+        <div class="panel-body">
+        <table class="table table-stripped table-hover" style="margin-bottom: -4px">
+        <thead>
+           <tr>
+            <th>Task Name</th>
+            <th>Task Desc</th>
+            <th>Edit</th>
+            <th>Delete</th>
+           </tr>
+        </thead>
+        <tbody data-bind="foreach : toDoTasksList">
+            <tr>
+                <td data-bind="text : taskName"></td>
+                <td data-bind="text : taskDesc"></td>
+                <td><button class="btn btn-default" data-bind="click : $root.displayEditTask.bind($data)" data-toggle="modal" data-target="#update-task-modal">Edit</button></td>
+                <td><button class="btn btn-default" data-bind="click : $root.deleteTask.bind($data)">Delete</button></td>
+            </tr>
+        </tbody>
+    </table>
+        </div>
+        <div class="panel-footer">
+            <button class="btn btn-default" data-binc="click : displayCreateTask" data-toggle="modal" data-target="#create-task-modal" style="margin-top: 8px; margin-bottom: -8px">Add new task</button><br><br>
+        </div>
+    </div> 
+    
+</div> 
+
+
+<!--
+<div class="createNewList" data-bind="visible : createList()">
+    <from>
+       <div class="form-group">
+           <label for="new-list-name">List name</label>
+           <input class="form-control" id="new-list-name" type="text" placeholder="Name your new list">
+       </div>
+    </from>
+    <button class="btn btn-default" data-bind="click : addList" style="">Confirm</button><br>
+    
+</div>
+-->
+
+<!--
+<div class="createNewTask" data-bind="visible : createTask()">
+    <from>
+       <div class="form-group">
+           <label for="new-task-name">Task name</label>
+           <input class="form-control" id="new-task-name" type="text" placeholder="Name your new task">
+       </div>
+       <div class="form-group">
+           <label for="new-task-desc">Task description</label>
+           <input class="form-control" id="new-task-desc" type="text" placeholder="Describe your new task">
+       </div>       
+    </from>
+    <button class="btn btn-default" data-bind="click : addTask" style="">Confirm</button><br>
+    
+</div>
+-->
+
+<!--
+<div class="editTask" data-bind="visible : editTask()">
+  <br>
+   <h4>Below you can update task:</h4>
+    <from>
+       <div class="form-group">
+           <label for="edit-task-name">Task name</label>
+           <input class="form-control" id="edit-task-name" type="text" >
+       </div>
+       <div class="form-group">
+           <label for="edit-task-desc">Task description</label>
+           <input class="form-control" id="edit-task-desc" type="text" >
+       </div>       
+    </from>
+    <button class="btn btn-default" data-bind="click : updateTask">Confirm</button><br>
+    
+</div>
+-->
+
+<!--
+<div class="editList" data-bind="visible : editList()">
+  <br>
+   <h4>Below you can update list:</h4>
+    <from>
+       <div class="form-group">
+           <label for="edit-list-name">List name</label>
+           <input class="form-control" id="edit-list-name" type="text" >
+       </div>    
+    </from>
+    <button class="btn btn-default" data-bind="click : updateList">Confirm</button><br>
+    
+</div>
+-->
+
+<!-- Modal create list -->
+<div class="modal fade" id="create-list-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Create new list</h4>
+      </div>
+      <div class="modal-body">
+            <from>
+               <div class="form-group">
+                   <label for="new-list-name">List name</label>
+                   <input class="form-control" id="new-list-name" type="text" placeholder="Name your new list">
+               </div>
+            </from>          
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" data-bind="click : addList" data-dismiss="modal">Save</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Modal update list -->
+<div class="modal fade" id="update-list-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Update list</h4>
+      </div>
+      <div class="modal-body">
+            <from>
+               <div class="form-group">
+                   <label for="edit-list-name">List name</label>
+                   <input class="form-control" id="edit-list-name" type="text" >
+               </div>    
+            </from>          
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" data-bind="click : updateList" data-dismiss="modal">Save</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<!-- Modal create task -->
+<div class="modal fade" id="create-task-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Create new task</h4>
+      </div>
+      <div class="modal-body">
+            <from>
+               <div class="form-group">
+                   <label for="new-task-name">Task name</label>
+                   <input class="form-control" id="new-task-name" type="text" placeholder="Name your new task">
+               </div>
+               <div class="form-group">
+                   <label for="new-task-desc">Task description</label>
+                   <input class="form-control" id="new-task-desc" type="text" placeholder="Describe your new task">
+               </div>       
+            </from>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" data-bind="click : addTask" data-dismiss="modal">Save</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<!-- Modal update task -->
+<div class="modal fade" id="update-task-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <h4 class="modal-title" id="myModalLabel">Update task</h4>
+      </div>
+      <div class="modal-body">
+            <from>
+               <div class="form-group">
+                   <label for="edit-task-name">Task name</label>
+                   <input class="form-control" id="edit-task-name" type="text" >
+               </div>
+               <div class="form-group">
+                   <label for="edit-task-desc">Task description</label>
+                   <input class="form-control" id="edit-task-desc" type="text" >
+               </div>       
+            </from>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        <button type="button" class="btn btn-primary" data-bind="click : updateTask" data-dismiss="modal">Save</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+</div>
+ 
+   
+<script>
+
+    
+    var myViewModel = {
+        userEmail : ko.observable(),
+        isUserLoggedIn : ko.observable(false),
+        displayTasks : ko.observable(false),
+        createList : ko.observable(false),
+        createTask : ko.observable(false),
+        editTask : ko.observable(false),
+        editList: ko.observable(false),
+        sessionId : 0,
+        parentListId: 0,
+        editingTaskId: 0,
+        editingListId: 0,
+        activeListName: "",
+        toDoListsList : ko.observableArray(),
+        toDoTasksList : ko.observableArray(),
+        addList : function(){
+            toDoListsList.push(tempObject);
+        }.bind(this),
+        signIn : function(){
+            this.userEmail($("#login-email").val());
+            $.ajax({
+            type: "POST",
+            dataType: "json",
+            url: "http://localhost:54750//api/login",
+            data: {
+                email: String($("#login-email").val()),
+                password: String($("#login-password").val())
+            },
+            success: function(data){
+                                myViewModel.isUserLoggedIn(true);
+                                myViewModel.sessionId = data.sessionId;
+                                console.log("You have successfully logged in! Welcome!");
+                                console.log(data.sessionId);
+                                myViewModel.retrieveLists();
+                                
+                     },
+            error: function(data){alert("im sorry, something gone wrong, you cant log in :(")}
+            });
+        },
+        signOut : function(){
+            $.ajax({
+            type : "POST",
+            dataType : "json",
+            url: "http://localhost:54750//api/logout",
+            data: {sessionId : this.sessionId},
+            success: function(data){alert("You successfully logged out");
+                                    myViewModel.isUserLoggedIn(false);
+                                    myViewModel.displayTasks(false);
+                                   },
+            error: function(data){alert("im sorry, something gone wrong, you cant log out :(")}    
+            })
+        },
+        retrieveLists: function(){
+            $.ajax({
+            type : "GET",
+            dataType : "json",
+            url: "http://localhost:54750//api/todolists",
+            data: {sessionId : this.sessionId},
+            success: function(data){console.log("You successfully downloaded lists");
+                                   myViewModel.toDoListsList(data.lists);
+                                   },
+            error: function(data){alert("im sorry, something gone wrong, you cant download lists :(")}    
+            })
+        },
+        openList : function(dataList){
+            $.ajax({
+            type : "GET",
+            dataType : "json",
+            url: "http://localhost:54750//api/todolists/" + Number(dataList.listId),
+            data: {sessionId : myViewModel.sessionId},     
+            success: function(data){console.log("You successfully downloaded tasks");
+                                   myViewModel.toDoTasksList(data.tasks);
+                                   myViewModel.displayTasks(true);                                   
+                                   myViewModel.parentListId = Number(dataList.listId);
+                                   myViewModel.activeListName = String(dataList.listName);
+                                   },
+            error: function(data){alert("im sorry, something gone wrong, you cant download tasks :(")}    
+            })
+        },
+        goToLists: function(){
+            this.displayTasks(false);
+        },
+        deleteList: function(dataList){
+            $.ajax({
+            type : "DELETE",
+            dataType : "json",
+            url: "http://localhost:54750//api/todolists/" + Number(dataList.listId),
+            data: {sessionId : myViewModel.sessionId},    
+            success: function(data){console.log("You successfully deleted list");
+                                    myViewModel.toDoListsList().forEach(function(item,index){
+                                        if(item.listId === dataList.listId){
+                                            myViewModel.toDoListsList().splice(index,1);
+                                        }
+                                    });
+                                    myViewModel.toDoListsList(myViewModel.toDoListsList());
+                                    //myViewModel.retrieveLists();
+                                   },
+            error: function(data){alert("im sorry, something gone wrong, you cant delete list :(")}    
+            })
+        },
+        addList: function(){
+            $.ajax({
+            type : "POST",
+            dataType : "json",
+            url: "http://localhost:54750//api/todolists/",
+            data: {sessionId : myViewModel.sessionId,
+                   listName : String($("#new-list-name").val())
+                  },
+            success: function(data){console.log("You successfully created new list");
+                                    myViewModel.createList(false);
+                                    myViewModel.retrieveLists();
+                                   },
+            error: function(data){alert("im sorry, something gone wrong, you cant create new list :(")}    
+            })
+        },
+        addTask: function(){
+            $.ajax({
+            type : "POST",
+            dataType : "json",
+            url: "http://localhost:54750//api/todolists/" + myViewModel.parentListId + "/tasks",
+            data: {sessionId : myViewModel.sessionId,
+                   task : {
+                   taskName : String($("#new-task-name").val()),
+                   taskDesc : String($("#new-task-desc").val()),
+                   parentListId : String(myViewModel.parentListId)                       
+                   }               
+            },
+            success: function(data){console.log("You successfully created new list");
+                                    myViewModel.createTask(false);
+                                    myViewModel.openList({listId : Number(myViewModel.parentListId)});
+                                   },
+            error: function(data){alert("im sorry, something gone wrong, you cant create new tasks :(")}    
+            })
+        },        
+        displayCreateList: function(){
+            this.createList(true);
+        },
+        displayCreateTask: function(){
+            this.createTask(true);
+        },        
+        updateList: function(){
+            $.ajax({
+            type : "PUT",
+            dataType : "json",
+            url: "http://localhost:54750//api/todolists/" + String(myViewModel.editingListId),
+            data: {sessionId : myViewModel.sessionId,
+                   list : {
+                   listName : String($("#edit-list-name").val()),
+                   ListId : String(myViewModel.editingListId)                       
+                   }               
+            },
+            success: function(data){console.log("You successfully updated list");
+                                    myViewModel.editList(false);
+                                    myViewModel.retrieveLists();
+                                    myViewModel.editingListId = 0;
+                                   },
+            error: function(data){alert("im sorry, something gone wrong, you cant update list :(")}    
+            })            
+        },
+        deleteTask: function(data){
+            $.ajax({
+            type : "DELETE",
+            dataType : "json",
+            url: "http://localhost:54750//api/todolists/" + myViewModel.parentListId + "/tasks/" + Number(data.taskId),
+            data: {sessionId : myViewModel.sessionId},    
+            success: function(data){console.log("You successfully deleted list");
+                                    myViewModel.openList({listId : Number(myViewModel.parentListId)});
+                                   },
+            error: function(data){alert("im sorry, something gone wrong, you cant delete task :(")}    
+            })            
+        },
+        displayEditTask: function(data){
+            myViewModel.editTask(true);
+            $("#edit-task-name").val(data.taskName);
+            $("#edit-task-desc").val(data.taskDesc);
+            myViewModel.editingTaskId = data.taskId;
+        },
+        displayEditList: function(data){
+            myViewModel.editList(true);
+            $("#edit-list-name").val(data.listName);
+            myViewModel.editingListId = data.listId;
+        },
+        updateTask: function(){
+            $.ajax({
+            type : "PUT",
+            dataType : "json",
+            url: "http://localhost:54750//api/todolists/" + String(myViewModel.parentListId) + "/tasks/" + String(myViewModel.editingTaskId),
+            data: {sessionId : myViewModel.sessionId,
+                   task : {
+                   taskName : String($("#edit-task-name").val()),
+                   taskDesc : String($("#edit-task-desc").val()),
+                   taskId : String(myViewModel.editingTaskId)                       
+                   }               
+            },
+            success: function(data){console.log("You successfully updated task");
+                                    myViewModel.editTask(false);
+                                    myViewModel.openList({listId : Number(myViewModel.parentListId)});
+                                    myViewModel.editingTaskId = 0;
+                                   },
+            error: function(data){alert("im sorry, something gone wrong, you cant update task :(")}    
+            })                 
+        }
+    }
+     
+    ko.applyBindings(myViewModel);
+    
+
+    
+</script>
+    
+</body>
+</html>

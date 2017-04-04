@@ -1,0 +1,30 @@
+﻿@model ToDoList.ViewModels.ListFormViewModel
+@{
+    ViewBag.Title = "CreateList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>CreateList</h2>
+
+
+
+@using (Html.BeginForm("SaveList", "List"))
+{
+    @Html.ValidationSummary()
+    <div class="form-group">
+        <label>Wpisz nazwe Listy</label>
+        @Html.TextBoxFor(m => m.ToDoList.ListName, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.ToDoList.ListName)
+    </div>
+
+    <button type="submit" class="btn btn-primary ">Save</button>
+
+
+    <div class="form-group">
+        @Html.HiddenFor(m => m.ToDoList.UserId)
+    </div>
+    <div class="form-group">
+        @Html.HiddenFor(m => m.SessionId)
+    </div>
+}
+    @Html.AntiForgeryToken()

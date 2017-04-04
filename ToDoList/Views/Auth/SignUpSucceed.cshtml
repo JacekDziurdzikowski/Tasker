@@ -1,0 +1,15 @@
+﻿@model ToDoList.ViewModels.AuthViewModel
+@{
+    ViewBag.Title = "SignUpSucceed";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>SignUp Succeed !</h2>
+
+<div><label>Name: @Model.User.FirstName</label></div>
+
+<div><label>Last Name: @Model.User.LastName</label></div>
+
+<div><label>Login: @Model.User.email</label></div>
+
+<h4>Now you are also logged in and can manage your ToDo Lists!</h4>
